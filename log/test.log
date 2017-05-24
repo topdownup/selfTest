@@ -1,0 +1,6 @@
+2017-05-15 09:44:49,650 - root - INFO - root! - [LogingTest.py:7]
+2017-05-15 09:44:49,650 - xzc - INFO - xzc! - [LogingTest.py:10]
+2017-05-15 09:45:41,614 - root - INFO - root! - [LogingTest.py:7]
+2017-05-15 09:45:41,614 - xzc - INFO - xzc! - [LogingTest.py:10]
+2017-05-15 09:45:56,127 - root - INFO - root! - [LogingTest.py:7]
+2017-05-15 09:45:56,127 - xzc - ERROR - xzc! - [LogingTest.py:10]
