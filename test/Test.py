@@ -23,6 +23,7 @@ if __name__ == "__main__":
         s.name = None
         print s.name + ""
         print ""
+        print "23232323"
     except Exception, e:
         print e.message
     finally:
