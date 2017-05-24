@@ -22,6 +22,7 @@ if __name__ == "__main__":
         print s.name
         s.name = None
         print s.name + ""
+        print ""
     except Exception, e:
         print e.message
     finally:
